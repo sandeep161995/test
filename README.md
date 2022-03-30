@@ -1,2 +1,2 @@
 # test
-basic camands test
+basic git camands test
